@@ -31,3 +31,11 @@ statusBTN = ReplyKeyboardMarkup(
     resize_keyboard=True,
     one_time_keyboard=True
 )
+
+adminBTN = ReplyKeyboardMarkup(
+    keyboard=[
+        [KeyboardButton(text="Adminga murojat qilish!")]
+    ],
+    resize_keyboard=True,
+    one_time_keyboard=True
+)
