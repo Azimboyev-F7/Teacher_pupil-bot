@@ -31,7 +31,7 @@ from start_up.start_up_btn import start_up_btn
 load_dotenv()
 
 
-TOKEN = os.getenv("BOT_TOKEN")
+TOKEN = os.getenv('TOKEN')
 
 ADMINS = 1509198141
 
@@ -40,6 +40,9 @@ bot = Bot(token=TOKEN, default=DefaultBotProperties(parse_mode=ParseMode.HTML))
 dp = Dispatcher()
 
 class Hodim(StatesGroup):
+
+
+
     idora = State()
     technology = State()
     contact = State()
