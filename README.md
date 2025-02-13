@@ -2,7 +2,7 @@
 
 Overview 🌍
 
-This Telegram bot helps users find jobs, employees, teachers, and students effortlessly. Whether you're looking for a job partner, an employer, or practice work, this bot streamlines the process!
+This Telegram bot helps users to find jobs, employees, teachers, and students effortlessly. Whether you're looking for a job partner, an employer, or practice work, this bot streamlines the process!
 
 Features ✨
 
