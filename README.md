@@ -8,6 +8,6 @@ Features ✨
 
 ✅ Find teachers & students for tutoring 📖
 ✅ Connect job seekers with employers 💼
-✅ Easy-to-use Telegram interface 📲
+✅ Easy to use Telegram interface 📲
 ✅ Automated job & education matchmaking 🤝
 ✅ Fast & secure communication 🔒
